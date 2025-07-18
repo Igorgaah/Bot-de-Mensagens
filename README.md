@@ -1,4 +1,4 @@
-````markdown
+
 # 📨 Bot de Spammar Mensagens - Python
 
 Um pequeno bot criado em Python com interface gráfica (Tkinter) para enviar mensagens automaticamente em aplicativos como o Discord. O envio pode ser interrompido a qualquer momento com a tecla `ESC`.
