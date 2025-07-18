@@ -5,7 +5,10 @@ Um pequeno bot criado em Python com interface gráfica (Tkinter) para enviar men
 
 ---
 
-![Interface do Bot](imagem_2025-07-18_104811993.png)
+<p align="center">
+  <img src="imagem_2025-07-18_104811993.png" alt="Interface do Bot" />
+</p>
+
 
 ## 🚀 Funcionalidades
 
