@@ -34,22 +34,22 @@ Um pequeno bot criado em Python com interface gráfica (Tkinter) para enviar men
 ## ⚙️ Como Usar
 
 1. Clone o repositório:
-   ```
+
    git clone https://github.com/seu-usuario/bot-discord-spam.git
    cd bot-discord-spam
-````
+
 
 2. Instale as dependências:
 
-   ```
+   
    pip install pyautogui keyboard
-   ```
+
 
 3. Execute o script:
 
-   ```
+
    python Chat.py
-   ```
+
 
 4. Ou use o executável:
    Vá até a pasta `dist` e execute `Chat.exe`.
